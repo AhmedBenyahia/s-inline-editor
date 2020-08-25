@@ -1,6 +1,10 @@
-# SaytoInlineEditor
+# SaytoInlineEditor   
 
-This project use [Angular CLI version 10.0.7.
+<img alt="npm" src="https://img.shields.io/npm/v/@slaysayto/s-inline-editor">
+
+
+
+This project use [Angular CLI version 10.0.7]
 
 Thanks for Netanel Basal for his amazing article with help me create this project: https://netbasal.com/keeping-it-simple-implementing-edit-in-place-in-angular-4fd92c4dfc70
 
