@@ -1,5 +1,8 @@
 # SInlineEditor   
 
+
+An Inline Editor Component For Angular 10+
+
 <img alt="npm" src="https://img.shields.io/npm/v/@slaysayto/s-inline-editor">
 
 package page in npm: https://www.npmjs.com/package/@slaysayto/s-inline-editor
