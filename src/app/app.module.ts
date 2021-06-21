@@ -3,9 +3,9 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import {ReactiveFormsModule} from '@angular/forms';
-import {ViewModeDirective} from './view-mode.directive';
-import {EditModeDirective} from './edit-mode.directive';
-import {SInlineEditorComponent} from './s-inline-editor.component';
+import {ViewModeDirective} from './s-inline-editor/view-mode.directive';
+import {EditModeDirective} from './s-inline-editor/edit-mode.directive';
+import {SInlineEditorComponent} from './s-inline-editor/s-inline-editor.component';
 
 @NgModule({
   declarations: [
